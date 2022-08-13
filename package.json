@@ -1,5 +1,8 @@
 {
-  "dependencies": {
-    "react-scripts": "^5.0.1"
-  }
+  "name": "crwn-clothing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OmarOmari13/Clothing-store.git",
+  "author": "OmarOmari <Omar.Omari@microcis.net>",
+  "license": "MIT"
 }
